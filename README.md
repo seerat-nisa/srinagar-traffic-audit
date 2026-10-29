@@ -14,3 +14,4 @@ Post-publication diagnostic audit of the CDAC signal-timing logs and ANPR camera
 ```bash
 pip install pandas numpy scikit-learn openpyxl
 python srinagar_spatiotemporal_audit.py --signal_path "STAGE_TIMING Convent.xlsx" --volume_path "p convent.xlsx"
+Raw CDAC controller and ANPR license-plate logs were provided by the Jammu & Kashmir Traffic Police Department (Srinagar) for academic research and cannot be redistributed publicly due to license-plate privacy restrictions.
